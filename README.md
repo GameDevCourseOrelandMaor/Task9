@@ -1,5 +1,5 @@
 # Multiplayer game using Photon Fusion
-Itch.io link: [Click here to play](https://gamedevcourseorelandmaor.itch.io/task9-weekly)
+Link to [Itch.io](https://gamedevcourseorelandmaor.itch.io/week9-task)
 
 Code based on the [Fusion Shared Mode Tutorial](https://doc.photonengine.com/fusion/current/tutorials/shared-mode-basics/overview).
 
@@ -9,4 +9,3 @@ Code based on the [Fusion Shared Mode Tutorial](https://doc.photonengine.com/fus
 - We added a score tracker to monitor the player's hits in raycast only.
 - We added rockets that decrease 5 health points with a right click of the mouse.
 
-Link to [Itch.io](https://gamedevcourseorelandmaor.itch.io/week9-task)
