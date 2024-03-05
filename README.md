@@ -1,4 +1,5 @@
 # Multiplayer game using Photon Fusion
+Itch.io link: [Click here to play](https://gamedevcourseorelandmaor.itch.io/task9-weekly)
 
 Code based on the [Fusion Shared Mode Tutorial](https://doc.photonengine.com/fusion/current/tutorials/shared-mode-basics/overview).
 
